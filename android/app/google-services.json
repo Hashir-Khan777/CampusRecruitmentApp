@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "783243152297",
+    "project_id": "hackhathonapp",
+    "storage_bucket": "hackhathonapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783243152297:android:61aa46df72f3b51895d2b8",
+        "android_client_info": {
+          "package_name": "com.campus.campus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783243152297-02kg73adq76frpl8am7is7ljdsn2u7h5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYXd6E41AqU3mcW0oHy2VMkEx8Ukucjbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783243152297-02kg73adq76frpl8am7is7ljdsn2u7h5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
